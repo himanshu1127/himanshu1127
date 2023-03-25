@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Himanshu garg</h1>
-<h3 align="center">A passionate Tech support engineer from India</h3>
+<h3 align="center">A driven and adaptable individual with a background in hospitality and a passion for technology. My
+                experience in customer support and problem-solving, coupled with my diverse skill set, make me a
+                valuable addition to any team. I am currently pursuing a technical support engineering course at masai
+                school and eager to apply my knowledge and enthusiasm to a career in the IT industry.</h3>
 
 - 👨‍💻 All of my projects are available at [https://himanshu1127.github.io/](https://himanshu1127.github.io/)
 
