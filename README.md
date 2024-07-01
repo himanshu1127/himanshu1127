@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu garg</h1>
-<h3 align="center">An aspiring Technical Support Engineer</h3>
+<h3 align="center">An aspiring Web Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://himanshu1127.github.io/](https://himanshu1127.github.io/)
 
